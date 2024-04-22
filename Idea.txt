@@ -1,0 +1,59 @@
+정의석 - 인스타 해시태그 크롤링해서 웹으로 전국 맛집 지도 만들기
+
+유재현 - 유튜브 수익 과 조회수 등 비교해보는 아이디어
+
+송연정 - ott 프로그램 모아서 한번에 추천순위 매겨주는 웹서비스
+
+박장훈 -
+1. DA, EDA 수업 때 배운 것들을 프로그램화 해서 인터넷에서 구동되게끔 만들어보기
+
+2. 노인일자리 채용공고 플랫폼 만들어보기
+
+
+
+교통카드빅데이터시스템	
+https://stcis.go.kr/wps/main.do
+공간빅데이터분석플랫폼
+http://geobigdata.go.kr/portal/index.jsp
+국가교통데이터오픈마켓	
+https://www.bigdata-transportation.kr/
+환경빅데이터플랫폼	
+https://www.bigdata-environment.kr/user/main.do
+KOSIS국가통계포털	
+https://kosis.kr/index/index.do
+공공데이터	
+https://www.data.go.kr/
+통합데이터지도	
+https://www.bigdata-map.kr/
+부동산 관련 데이터
+한국부동산원 - 월간주택가격동향
+KB 부동산 - 월간/주간주택가격동향
+
+1.  선호도조사를 활용하여, 이를 통해 데이트 장소 혹은 다양한 놀거리(캠핑, 뮤지컬, 클래식 공연, 오페라, 축제, 박물관, 미술관 등)를 추천해주는 서비스
+- 넷플릭스 영화 추천 시스템을 차용
+
+2. 노트 정리 내용을 기반으로, LLM을 활용하여 문제를 만들어 주는 시스템.
+- 파라미터를 조정할 수 있게끔 하여, 다양한 공부에 도움을 주는 서비스
+- 데이터 분석을 활용할 수 있는가?
+
+3. 파생변수를 활용한 주식 추천 서비스, 
+- https://opendart.fss.or.kr/ (주요공시 및 재무정보)
+- https://www.data.go.kr/data/15094808/openapi.do (주식 시세)
+- 재무/공시 정보 평가를 포함하여, 데이터 분석 기반을 통한 분석/예측과 파생변수를 활용하여, 장/단기 투자 주식을 추천
+
+4. 사용 목적에 맞는 컴퓨터 추천 서비스
+- https://www.kaggle.com/datasets/baraazaid/pc-video-game-requirements-v2?resource=download (컴퓨터 게임 사양 정보)
+- https://www.kaggle.com/datasets/dilshaansandhu/general-computer-hardware-dataset (컴퓨터 하드웨어 정보)
+- 배운걸 써먹을 수 있을까??
+
+
+
+
+** 가급적이면 배웠던 것이 포함되게 할 것.
+- 추천 시스템
+- 추천을 활용하려면 대게 취미활동  
+- 데이터 
+
+
+
+
