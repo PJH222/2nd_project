@@ -220,7 +220,7 @@ def main(date1, date2, number):
 # print("프로그램 시작 시각 :",datetime.datetime.now())
 
 # 5일 간격 기준으로 파일이 형성되도록 세팅 되어 있습니다.
-easy_split = "2020.10.02 ~ 2020.10.06"
+easy_split = "2019.07.17 ~ 2019.07.21"
 
 start_date = easy_split[:10]
 end_date = easy_split[13:]

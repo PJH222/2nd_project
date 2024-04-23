@@ -213,7 +213,7 @@ def main(date1, date2, number):
         main(start_date,end_date, number)
         
 # 5일 간격 기준으로 파일이 형성되도록 세팅 되어 있습니다.
-easy_split = "2017.09.22 ~ 2017.09.26"
+easy_split = "2018.07.02 ~ 2018.07.06"
 
 start_date = easy_split[:10]
 end_date = easy_split[13:]
