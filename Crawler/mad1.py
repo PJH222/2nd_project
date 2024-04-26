@@ -38,7 +38,7 @@ def crawl_page(keyword, start_date, end_date, sort, page):
         # 진행 중인 크롬 화면을 확인 하고 싶으시면
         # 하기 두줄을 주석 표시 ("#") 하시면 됩니다.
         # options.headless = True
-        options.add_argument('headless')
+        # options.add_argument('headless')
         
         #argument 설정 참조 링크 (https://beomi.github.io/2017/09/28/HowToMakeWebCrawler-Headless-Chrome/)
         options.add_argument('window-size=1920x1080')
@@ -220,7 +220,8 @@ def main(date1, date2, number):
 # print("프로그램 시작 시각 :",datetime.datetime.now())
 
 # 5일 간격 기준으로 파일이 형성되도록 세팅 되어 있습니다.
-easy_split = "2019.07.17 ~ 2019.07.21"
+easy_split = "2016.04.07 ~ 2016.04.11"
+# 현재 진행 중인 기간 2019.07.02 ~ 2019.07.06 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 start_date = easy_split[:10]
 end_date = easy_split[13:]
