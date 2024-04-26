@@ -6,6 +6,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Crawler/
 
 # C extensions
 *.so
@@ -30,6 +31,7 @@ share/python-wheels/
 *.egg
 *.csv
 MANIFEST
+Crawler/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
